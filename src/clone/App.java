@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class App {
-    static String source = "Role";
+    static String source = "Client";
     static String target = "Scope";
 
     public static void main(String[] args) throws IOException {
